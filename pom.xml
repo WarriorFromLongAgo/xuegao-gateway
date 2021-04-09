@@ -16,6 +16,7 @@
         <module>gate-aio</module>
         <module>common</module>
         <module>gate-netty</module>
+        <module>base</module>
     </modules>
 
 </project>
